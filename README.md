@@ -16,7 +16,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://fernandoperez3108.github.io/fernan-odin-recipes/index.html)
+[Live Demo Link](https://fernandoperez3108.github.io/fernan-odin-recipes/)
 
 
 ## Getting Started
