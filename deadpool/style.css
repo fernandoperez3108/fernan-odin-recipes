@@ -1,0 +1,46 @@
+* {
+    list-style: none;
+}
+body {
+    background-image: url("https://img-9gag-fun.9cache.com/photo/aRPz5Vy_700bwp.webp");
+    background-size: auto;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    font-family: 'Roboto', arial;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.container {
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    height: 100vh;
+}
+
+.ingredientes {
+    color: black;
+    background-color: ;
+    border: 2px solid black;
+    text-align: center;
+}
+
+.preparate {
+    color: black;
+    background-color: hite;
+    border: 2px solid black;
+    text-align: center;
+    background-color: rgb(255, 255, 255, .6);
+}
+
+h1 {
+    font-size: 70px;
+    color: white;
+    -webkit-text-stroke-width: 3px;
+    -webkit-text-stroke-color: red;
+  
+}
