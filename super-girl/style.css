@@ -1,0 +1,38 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(255, 255, 255, .7);
+    justify-content: space-around;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+body {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShMsxQi9jrwHkxa39q0U6qU01R0qYNt9IoZA&usqp=CAU");
+    background-size: cover;
+}
+
+a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: rgb(82, 230, 24);
+    font-size: 30px;
+    text-align: center;
+    
+}
+
+
+a:hover {
+    color: black;
+    cursor: pointer;
+}
+
+img {
+    border: 5px solid black;
+    border-radius: 50px;
+}
+
+.IMG {
+    align-self: center;
+}

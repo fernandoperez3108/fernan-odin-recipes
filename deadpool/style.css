@@ -19,7 +19,7 @@ body {
     justify-content: space-between;
     align-items: center;
     flex-direction: row;
-    height: 100vh;
+    background-color: rgb(255, 255, 255, .7);
 }
 
 .ingredientes {
@@ -27,6 +27,7 @@ body {
     background-color: ;
     border: 2px solid black;
     text-align: center;
+    justify-content: center;
 }
 
 .preparate {
@@ -34,7 +35,6 @@ body {
     background-color: hite;
     border: 2px solid black;
     text-align: center;
-    background-color: rgb(255, 255, 255, .6);
 }
 
 h1 {
@@ -42,5 +42,18 @@ h1 {
     color: white;
     -webkit-text-stroke-width: 3px;
     -webkit-text-stroke-color: red;
-  
+}
+
+a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: red;
+    font-size: 30px;
+}
+
+
+a:hover {
+    color: rgb(185, 14, 14);
+    cursor: pointer;
 }
